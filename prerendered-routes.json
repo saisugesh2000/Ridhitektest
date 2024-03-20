@@ -1,0 +1,15 @@
+{
+  "routes": [
+    "/",
+    "/Aboutus",
+    "/application",
+    "/cards",
+    "/Contact_Us",
+    "/digitalization",
+    "/Header",
+    "/lendings",
+    "/payments",
+    "/Services",
+    "/wavemaker"
+  ]
+}
